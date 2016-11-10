@@ -1,0 +1,8 @@
+C:\Users\s3217\Desktop\ActiveDirectoryManager\ActiveDirectoryManagerSvc\bin\ActiveDirectoryManagerSvc.dll.config
+C:\Users\s3217\Desktop\ActiveDirectoryManager\ActiveDirectoryManagerSvc\bin\ActiveDirectoryManagerSvc.dll
+C:\Users\s3217\Desktop\ActiveDirectoryManager\ActiveDirectoryManagerSvc\bin\ActiveDirectoryManagerSvc.pdb
+C:\Users\s3217\Desktop\ActiveDirectoryManager\ActiveDirectoryManagerSvc\bin\ActiveDirectoryManager.dll
+C:\Users\s3217\Desktop\ActiveDirectoryManager\ActiveDirectoryManagerSvc\bin\ActiveDirectoryManager.pdb
+C:\Users\s3217\Desktop\ActiveDirectoryManager\ActiveDirectoryManagerSvc\obj\Debug\ActiveDirectoryManagerSvc.csprojResolveAssemblyReference.cache
+C:\Users\s3217\Desktop\ActiveDirectoryManager\ActiveDirectoryManagerSvc\obj\Debug\ActiveDirectoryManagerSvc.dll
+C:\Users\s3217\Desktop\ActiveDirectoryManager\ActiveDirectoryManagerSvc\obj\Debug\ActiveDirectoryManagerSvc.pdb

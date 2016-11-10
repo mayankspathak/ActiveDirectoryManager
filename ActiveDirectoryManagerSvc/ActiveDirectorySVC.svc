@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ActiveDirectoryManagerSvc.Service1" CodeBehind="ActiveDirectorySVC.svc.cs" %>

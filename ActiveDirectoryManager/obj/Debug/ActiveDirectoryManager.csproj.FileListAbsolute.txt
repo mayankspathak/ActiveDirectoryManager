@@ -1,0 +1,5 @@
+C:\Users\s3217\Desktop\ActiveDirectoryManager\AdLibrary\bin\Debug\ActiveDirectoryManager.dll
+C:\Users\s3217\Desktop\ActiveDirectoryManager\AdLibrary\bin\Debug\ActiveDirectoryManager.pdb
+C:\Users\s3217\Desktop\ActiveDirectoryManager\AdLibrary\bin\Debug\ClassLibrary1.dll
+C:\Users\s3217\Desktop\ActiveDirectoryManager\AdLibrary\obj\Debug\ActiveDirectoryManager.dll
+C:\Users\s3217\Desktop\ActiveDirectoryManager\AdLibrary\obj\Debug\ActiveDirectoryManager.pdb
